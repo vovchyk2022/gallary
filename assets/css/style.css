@@ -1,7 +1,12 @@
+body{
+    text-align: center;
+}
 img{
     width: 250px;
     height: 250px;
-    border: 5px double #333
-    object-fit: cover
-    object-position: top right;
+    border: 5px double #333;
+    border-radius: 50%;
+    object-fit: cover;
+    /* object-position: top right */
+
 }
